@@ -2,7 +2,7 @@
   function getPageContentPath($pageParam){
     switch($pageParam){
       case '1':
-        return("");
+        return("includes/pages/charSheets.php");
         break;
       default:
         return("includes/pages/start.php");

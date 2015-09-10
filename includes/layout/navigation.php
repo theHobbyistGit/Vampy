@@ -1,7 +1,7 @@
 <nav>
   <ul>
-    <li>Home</li>
-    <li>Character Sheets</li>
-    <li>Add Stuff</li>
+    <li><a href="?page=0">Home</a></li>
+    <li><a href="?page=1">Character Sheets</a></li>
+    <li><a href="?page=2">Add Stuff</a></li>
   </ul>
 </nav>
