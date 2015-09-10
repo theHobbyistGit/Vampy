@@ -1,5 +1,5 @@
 <?php
-  require("includes/phpScripts/requiredScripts.php");
+  require("backend/pages/decide.php");
   if (isset($_GET["page"])){ $pageUrl = getPageContentPath($_GET["page"]);
   }else{                     $pageUrl = getPageContentPath(""); }
 ?>
