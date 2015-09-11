@@ -26,5 +26,12 @@ nav li a{ color:#fff; }
 .normalArea{ width:100%; margin: 10px 0 10px 0; }
 select { min-width: 200px; height:20px; }
 button { height: 20px; padding:0 10px;}
+.tableHorizontalSpacer{ height:10px; }
 
 /* END OF REGULAR STUFF */
+
+/* CHARACTER SHEET*/
+
+#characterSheet label { width:70px; display:block; float:left; }
+
+/* END OF CHARACTER SHEET*/
